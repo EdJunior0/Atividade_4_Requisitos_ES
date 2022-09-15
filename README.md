@@ -113,3 +113,7 @@ Eles são narrativas em texto, que **podem descrever uma unidade funcional** e s
 
     **FA01 -** Botão de “Não tenho uma conta”:
     1. O autor ao clicar no botão “Já tenho uma conta” na tela de Cadastro, o autor é direcionado para a tela de Login;
+
+## **Protótipo**
+
+- https://www.figma.com/file/hZS3FT2XP2Q4Pib4LaDEHL/Atividade-4%3A-Requisitos---Edson?node-id=0%3A1
